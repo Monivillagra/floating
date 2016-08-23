@@ -1,0 +1,22 @@
+.contenedor {
+	border: 1px solid #000;
+	width: auto;
+}
+
+.yellow {
+	background: yellow;
+	width: 25%;
+	height: 100px;
+}
+
+.blue {
+	background: blue;
+	width: 25%;
+	height: 100px;
+}
+
+.red {
+	background: red;
+	width: 25%;
+	height: 100px;
+}
